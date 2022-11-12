@@ -27,7 +27,7 @@
 
 42 Projects bibliothèque personnel
 
-<h2 align="center"> Roadmap </h2>
+<h2 align="center">👨‍💻 Roadmap 👨‍💻</h2>
 
 - [x] ft_atoi
 - [x] ft_isalpha
@@ -68,7 +68,7 @@
 - [x] ft_strncpy
 - [x] ft_strndup
 
-<h2 align="center"> Roadmap Bonus </h2>
+<h2 align="center">👨‍💻 Roadmap Bonus 👨‍💻</h2>
 
 - [x] ft_lstnew
 - [x] ft_lstadd_front
