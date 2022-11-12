@@ -26,3 +26,56 @@
 <h2 align="center">📙 Libft 📙</h2>
 
 42 Projects bibliothèque personnel
+
+<h2 align="center"> Roadmap </h2>
+
+- [x] ft_atoi
+- [x] ft_isalpha
+- [x] ft_memccpy
+- [x] ft_memmove
+- [x] ft_strlcat
+- [x] ft_strnstr
+- [x] ft_bzero
+- [x] ft_isascii
+- [x] ft_memchr
+- [x] ft_memset
+- [x] ft_strlcpy
+- [x] ft_strrchr
+- [x] ft_calloc
+- [x] ft_isdigit
+- [x] ft_memcmp
+- [x] ft_strchr
+- [x] ft_strlen
+- [x] ft_tolower
+- [x] ft_isalnum
+- [x] ft_isprint
+- [x] ft_memcpy
+- [x] ft_strdup
+- [x] ft_strncmp
+- [x] ft_toupper
+- [x] ft_substr
+- [x] ft_strjoin
+- [x] ft_strtrim
+- [x] ft_putchar_fd
+- [x] ft_putstr_fd
+- [x] ft_putendl_fd
+- [x] ft_putnbr_fd
+- [x] ft_strmapi
+- [x] ft_split
+- [x] ft_itoa
+- [x] ft_strcat
+- [x] ft_strcpy
+- [x] ft_strncpy
+- [x] ft_strndup
+
+<h2 align="center"> Roadmap Bonus </h2>
+
+- [x] ft_lstnew
+- [x] ft_lstadd_front
+- [x] ft_lstsize
+- [x] ft_lstadd_back
+- [x] ft_lstlast
+- [x] ft_lstdelone
+- [x] ft_lstiter
+- [x] ft_lstclear
+- [x] ft_lstmap
